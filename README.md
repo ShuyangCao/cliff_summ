@@ -6,13 +6,14 @@ Code for EMNLP 2021 paper "CLIFF: Contrastive Learning for Improving Faithfulnes
 ## Data Construction
 
 For data construction, please refer to [data_construction](data_construction).
-Constructed datasets are also available in [Google Drive]().
+Constructed datasets are also available in [Google Drive](https://drive.google.com/drive/folders/1b7JD419DBJv2BrNduBYOs8floP1JgO0-?usp=sharing).
 
 ---------
 
 ## Training
 
-The following scripts assume 
+The following scripts require that your `$DATA` folder is organized the same as the `data` folder
+in [Google Drive](https://drive.google.com/drive/folders/1b7JD419DBJv2BrNduBYOs8floP1JgO0-?usp=sharing).
 
 #### BART
 
@@ -82,7 +83,8 @@ CUDA_VISIBLE_DEVICES=0,1 ./train_cnndm_single_neg.sh \
 
 ## Decoding
 
-The following examples show how to decode trained models.
+The following examples show how to decode trained models. Model checkpoints are available in 
+[Google Drive](https://drive.google.com/drive/folders/1b7JD419DBJv2BrNduBYOs8floP1JgO0-?usp=sharing).
 
 #### BART
 
