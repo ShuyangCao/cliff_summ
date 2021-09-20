@@ -1,0 +1,264 @@
+Abkhazia	Abkhaz, Abkhazian	Abkhazians
+Afghanistan	Afghan	Afghans
+Åland Islands	Åland Island	Åland Islanders
+Albania	Albanian	Albanians
+Algeria	Algerian	Algerians
+American Samoa	American Samoan	American Samoans
+Andorra	Andorran	Andorrans
+Angola	Angolan	Angolans
+Anguilla	Anguillan	Anguillans
+Antarctica	Antarctic	Antarctic residents
+Antigua and Barbuda	Antiguan or Barbudan	Antiguans or Barbudans
+Argentina	Argentine, Argentinian	Argentines, Argentinians
+Armenia	Armenian	Armenians
+Aruba	Aruban	Arubans
+Australia	Australian	Australians
+Austria	Austrian	Austrians
+Azerbaijan	Azerbaijani, Azeri	Azerbaijanis, Azeris
+Bahamas, The	Bahamian	Bahamians
+Bahrain	Bahraini	Bahrainis
+Bangladesh	Bangladeshi	Bangladeshis
+Barbados	Barbadian	Barbadians
+Belarus	Belarusian	Belarusians
+Belgium	Belgian	Belgians
+Belize	Belizean	Belizeans
+Benin	Beninese, Beninois	Beninese, Beninois
+Bermuda	Bermudian, Bermudan	Bermudians, Bermudans
+Bhutan	Bhutanese	Bhutanese
+Bolivia, Plurinational State of	Bolivian	Bolivians
+Bonaire	Bonaire, Bonairean	Bonaire Dutch
+Bosnia and Herzegovina	Bosnian or Herzegovinian	Bosnians or Herzegovinians
+Botswana	Motswana, Botswanan	Batswana
+Bouvet Island	Bouvet Island	Bouvet Islanders
+Brazil	Brazilian	Brazilians
+British Indian Ocean Territory	BIOT	British
+Brunei	Bruneian	Bruneians
+Bulgaria	Bulgarian	Bulgarians
+Burkina Faso	Burkinabé	Burkinabè, Burkinabé
+Burma	Burmese	Burmese, Burman
+Burundi	Burundian	Burundians, Barundi
+Cabo Verde	Cabo Verdean	Cabo Verdeans
+Cambodia	Cambodian	Cambodians
+Cameroon	Cameroonian	Cameroonians
+Canada	Canadian	Canadians
+Cayman Islands	Caymanian	Caymanians
+Central African Republic	Central African	Central Africans
+Chad	Chadian	Chadians
+Chile	Chilean	Chileans
+China, People's Republic of	Chinese	Chinese
+Christmas Island	Christmas Island	Christmas Islanders
+Cocos Islands	Cocos Island	Cocos Islanders
+Colombia	Colombian	Colombians
+Comoros	Comoran, Comorian	Comorans, Comorians
+Congo, Democratic Republic of the	Congolese	Congolese
+Congo, Republic of the	Congolese	Congolese
+Cook Islands	Cook	Cook Islanders
+Costa Rica	Costa Rican	Costa Ricans
+Croatia	Croatian	Croatians, Croats
+Cuba	Cuban	Cubans
+Curaçao	Curaçaoan	Curaçaoans
+Cyprus	Cypriot	Cypriots
+Czech Republic	Czech	Czechs
+Denmark	Danish	Danes
+Djibouti	Djiboutian	Djiboutians
+Dominica	Dominican	Dominicans
+Dominican Republic	Dominican	Dominicans
+East Timor	Timorese	Timorese
+Ecuador	Ecuadorian	Ecuadorians
+Egypt	Egyptian	Egyptians
+El Salvador	Salvadoran	Salvadorans, Salvadorians, Salvadoreans
+England	English	English, Englishmen, Englishwomen
+Equatorial Guinea	Equatorial Guinean, Equatoguinean	Equatorial Guineans, Equatoguineans
+Eritrea	Eritrean	Eritreans
+Estonia	Estonian	Estonians
+Eswatini	Swazi, Swati	Swazis
+Ethiopia	Ethiopian	Ethiopians, Habesha
+European Union	European	Europeans
+Falkland Islands	Falkland Island	Falkland Islanders
+Faroe Islands	Faroese	Faroese
+Fiji	Fijian	Fijians
+Finland	Finnish	Finns
+France	French	French, Frenchmen, Frenchwomen
+French Guiana	French Guianese	French Guianese
+French Polynesia	French Polynesian	French Polynesians
+French Southern Territories	French Southern Territories	French
+Gabon	Gabonese	Gabonese, Gabonaise
+Gambia, The	Gambian	Gambians
+Georgia	Georgian	Georgians
+Germany	German	Germans
+Ghana	Ghanaian	Ghanaians
+Gibraltar	Gibraltar	Gibraltarians
+Greece	Greek, Hellenic	Greeks, Hellenes
+Greenland	Greenlandic	Greenlanders
+Grenada	Grenadian	Grenadians
+Guadeloupe	Guadeloupe	Guadeloupians, Guadeloupeans
+Guam	Guamanian	Guamanians
+Guatemala	Guatemalan	Guatemalans
+Guernsey	Channel Island	Channel Islanders
+Guinea	Guinean	Guineans
+Guinea-Bissau	Bissau-Guinean	Bissau-Guineans
+Guyana	Guyanese	Guyanese
+Haiti	Haitian	Haitians
+Heard Island and McDonald Islands	Heard Island or McDonald Islands	Heard Islanders or McDonald Islander
+Honduras	Honduran	Hondurans
+Hong Kong	Hong Kong, Cantonese, Hong Konger	Hongkongers, Hong Kongese
+Hungary	Hungarian, Magyar	Hungarians, Magyars
+Iceland	Icelandic	Icelanders
+India	Indian	Indians
+Indonesia	Indonesian	Indonesians
+Iran, Islamic Republic of	Iranian, Persian	Iranians, Persians
+Iraq	Iraqi	Iraqis
+Ireland	Irish	Irish, Irishmen, Irishwomen
+Isle of Man	Manx	Manx
+Israel	Israeli, Israelite	Israelis
+Italy	Italian	Italians
+Ivory Coast	Ivorian	Ivorians
+Jamaica	Jamaican	Jamaicans
+Jan Mayen	Jan Mayen	Jan Mayen residents
+Japan	Japanese	Japanese
+Jersey	Channel Island	Channel Islanders
+Jordan	Jordanian	Jordanians
+Kazakhstan	Kazakhstani, Kazakh	Kazakhstanis, Kazakhs
+Kenya	Kenyan	Kenyans
+Kiribati	Kiribati	I-Kiribati
+Korea, Democratic People's Republic of	North Korean	Koreans, North Koreans
+Korea, Republic of	South Korean	Koreans, South Koreans
+Kosovo	Kosovar, Kosovan	Kosovars
+Kuwait	Kuwaiti	Kuwaitis
+Kyrgyzstan	Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz	Kyrgyzstanis, Kyrgyz, Kirgiz, Kirghiz
+Lao People's Democratic Republic	Lao, Laotian	Laos, Laotians
+Latvia	Latvian, Lettish	Latvians, Letts
+Lebanon	Lebanese	Lebanese
+Lesotho	Lesothan, Basotho	Basotho
+Liberia	Liberian	Liberians
+Libya	Libyan	Libyans
+Liechtenstein	Liechtensteiner	Liechtensteiners
+Lithuania	Lithuanian	Lithuanians
+Luxembourg	Luxembourg, Luxembourgish	Luxembourgers
+Macau	Macanese	Macanese, Chinese
+Madagascar	Malagasy	Malagasy
+Malawi	Malawian	Malawians
+Malaysia	Malaysian	Malaysians
+Maldives	Maldivian	Maldivians
+Mali	Malian, Malinese	Malians
+Malta	Maltese	Maltese
+Marshall Islands	Marshallese	Marshallese
+Martinique	Martiniquais, Martinican	Martiniquais, Martiniquaises
+Mauritania	Mauritanian	Mauritanians
+Mauritius	Mauritian	Mauritians
+Mayotte	Mahoran	Mahorans
+Mexico	Mexican	Mexicans
+Micronesia, Federated States of	Micronesian	Micronesians
+Moldova	Moldovan	Moldovans
+Monaco	Monégasque, Monacan	Monégasques, Monacans
+Mongolia	Mongolian	Mongolians, Mongols
+Montenegro	Montenegrin	Montenegrins
+Montserrat	Montserratian	Montserratians
+Morocco	Moroccan	Moroccans
+Mozambique	Mozambican	Mozambicans
+Myanmar	Myanma or Burmese	Myanmars
+Namibia	Namibian	Namibians
+Nauru	Nauruan	Nauruans
+Nepal	Nepali, Nepalese	Nepalis, Nepalese
+Netherlands	Dutch	Dutch, Dutchmen, Dutchwomen, Netherlanders
+New Caledonia	New Caledonian	New Caledonians
+New Zealand	New Zealand	New Zealanders
+Nicaragua	Nicaraguan	Nicaraguans
+Niger	Nigerien	Nigeriens
+Nigeria	Nigerian	Nigerians
+Niue	Niuean	Niueans
+Norfolk Island	Norfolk Island	Norfolk Islanders
+North Macedonia	Macedonian	Macedonians
+Northern Ireland	Northern Irish	Northern Irish, Northern Irishmen, Northern Irishwomen
+Northern Mariana Islands	Northern Marianan	Northern Marianans
+Norway	Norwegian	Norwegians
+Oman	Omani	Omanis
+Pakistan	Pakistani	Pakistanis
+Palau	Palauan	Palauans
+Palestine	Palestinian	Palestinians
+Panama	Panamanian	Panamanians
+Papua New Guinea	Papua New Guinean, Papuan	Papua New Guineans, Papuans
+Paraguay	Paraguayan	Paraguayans
+Peru	Peruvian	Peruvians
+Philippines	Filipino, Philippine	Filipinos, Filipinas
+Pitcairn Islands	Pitcairn Island	Pitcairn Islanders
+Poland	Polish	Poles
+Portugal	Portuguese	Portuguese
+Puerto Rico	Puerto Rican	Puerto Ricans
+Qatar	Qatari	Qataris
+Quebec	Québécois	Québécois, Quebecers
+Réunion	Réunionese, Réunionnais	Réunionese, Réunionnais, Réunionnaises
+Romania	Romanian	Romanians
+Russia	Russian	Russians
+Rwanda	Rwandan	Rwandans, Banyarwanda
+Saba	Saba, Saban	Saba Dutch
+Saint Barthélemy	Barthélemois	Barthélemois, Barthélemoises
+Saint Helena, Ascension and Tristan da Cunha	Saint Helenian	Saint Helenians
+Saint Kitts and Nevis	Kittitian or Nevisian	Kittitians or Nevisians
+Saint Lucia	Saint Lucian	Saint Lucians
+Saint Martin	Saint-Martinoise	Saint-Martinois, Saint-Martinoises
+Saint Pierre and Miquelon	Saint-Pierrais, Miquelonnais	Saint-Pierrais, Saint-Pierraises or Miquelonnais, Miquelonnaises
+Saint Vincent and the Grenadines	Saint Vincentian, Vincentian	Saint Vincentians or Vincentians
+Sahrawi Arab Democratic Republic	Sahrawi, Western Saharan, Sahrawian	Sahrawis, Western Saharans
+Samoa	Samoan	Samoans
+San Marino	Sammarinese	Sammarinese
+São Tomé and Príncipe	São Toméan	São Toméans
+Saudi Arabia	Saudi, Saudi Arabian	Saudis, Saudi Arabians
+Scotland	Scottish	Scots, Scotsmen, Scotswomen
+Senegal	Senegalese	Senegalese
+Serbia	Serbian	Serbs, Serbians
+Seychelles	Seychellois	Seychellois, Seychelloises
+Sierra Leone	Sierra Leonean	Sierra Leoneans
+Singapore	Singapore, Singaporean	Singaporeans
+Sint Eustatius	Sint Eustatius, Statian	Statians
+Sint Maarten	Sint Maarten	Sint Maartener
+Slovakia	Slovak	Slovaks, Slovakians
+Slovenia	Slovenian, Slovene	Slovenes, Slovenians
+Solomon Islands	Solomon Island	Solomon Islanders
+Somalia	Somali	Somalis
+Somaliland	Somalilander	Somalilanders
+South Africa	South African	South Africans
+South Georgia and the South Sandwich Islands	South Georgia Island, South Sandwich Island	South Georgia Islanders or South Sandwich Islanders
+South Ossetia	South Ossetian	South Ossetians
+South Sudan	South Sudanese	South Sudanese
+Spain	Spanish	Spaniards
+Sri Lanka	Sri Lankan	Sri Lankans
+Sudan	Sudanese	Sudanese
+Suriname	Surinamese	Surinamers
+Svalbard	Svalbard resident	Svalbard residents
+Sweden	Swedish	Swedes
+Switzerland	Swiss	Swiss
+Syrian Arab Republic	Syrian	Syrians
+Taiwan	Taiwanese, Formosan	Taiwanese, Formosan
+Tajikistan	Tajikistani	Tajikistanis, Tajiks
+Tanzania	Tanzanian	Tanzanians
+Thailand	Thai	Thai
+Timor-Leste	Timorese	Timorese
+Togo	Togolese	Togolese
+Tokelau	Tokelauan	Tokelauans
+Tonga	Tongan	Tongans
+Trinidad and Tobago	Trinidadian or Tobagonian	Trinidadians or Tobagonians
+Tunisia	Tunisian	Tunisians
+Turkey	Turkish	Turks
+Turkmenistan	Turkmen	Turkmens
+Turks and Caicos Islands	Turks and Caicos Island	Turks and Caicos Islanders
+Tuvalu	Tuvaluan	Tuvaluans
+Uganda	Ugandan	Ugandans
+Ukraine	Ukrainian	Ukrainians
+United Arab Emirates	Emirati, Emirian, Emiri	Emiratis, Emirians, Emiri
+United Kingdom of Great Britain and Northern Ireland	British, United Kingdom, UK	Britons, British
+United States of America	American, United States, U.S.	Americans
+Uruguay	Uruguayan	Uruguayans, Orientals
+Uzbekistan	Uzbekistani, Uzbek	Uzbekistanis, Uzbeks
+Vanuatu	Ni-Vanuatu, Vanuatuan	Ni-Vanuatu
+Vatican City State	Vatican	Vatican citizens
+Venezuela, Bolivarian Republic of	Venezuelan	Venezuelans
+Vietnam	Vietnamese	Vietnamese people
+Virgin Islands, British	British Virgin Island	British Virgin Islanders
+Virgin Islands, United States	U.S. Virgin Island	U.S. Virgin Islanders
+Wales	Welsh	Welshmen, Welshwomen, Walian
+Wallis and Futuna	Wallis and Futuna, Wallisian, Futunan	Wallis and Futuna Islanders, Wallisians or Futunans
+Yemen	Yemeni	Yemenis
+Zambia	Zambian	Zambians
+Zanzibar	Zanzibari	Zanzibaris
+Zimbabwe	Zimbabwean	Zimbabweans

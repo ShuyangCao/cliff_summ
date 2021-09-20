@@ -5,6 +5,10 @@
 We use [nlpaug](https://github.com/makcedward/nlpaug/) `1.1.3`. Please follow their installation instruction.
 **Note: nlpaug switch to transformers for their back translation model in the newer version, which is not compatible with our code.**
 
+Back translated samples with novel entities are discarded. 
+We use the Wikipedia [demonym list](https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations) to
+keep the paraphrases that exchange nations' names with their adjectival and demonymic forms.
+
 #### Create raw positive samples
 
 ```shell
