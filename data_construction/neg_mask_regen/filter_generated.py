@@ -355,7 +355,10 @@ def main():
     others = []
     with open(args.other) as f:
         for line in f:
-            id, _, gen_type, num = line.strip().split(' ')
+            if '\t' in line:
+                id, _, gen_type, num = line.strip().split('\t')
+            else:
+                id, _, gen_type, num = line.strip().split(' ')
             id = int(id)
             num = int(num)
             others.append((id, gen_type, num))

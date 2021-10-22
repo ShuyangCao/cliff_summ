@@ -181,7 +181,7 @@ mkdir -p $DATA/processed_data/xsum_regeneration
 python regeneration_data.py $DATA/xsum_raw/train.bpe.source \
  $DATA/processed_data/xsum_relation/train.jsonl \
  $DATA/processed_data/xsum_regeneration/train
-python regeneration_data.py $DATA/xsum_raw/valid.bpe.source \
+python regeneration_data.py $DATA/xsum_raw/validation.bpe.source \
  $DATA/processed_data/xsum_relation/valid.jsonl \
  $DATA/processed_data/xsum_regeneration/valid
 
@@ -228,6 +228,7 @@ Then run the following commands for regeneration:
 cd regen_scripts
 ./regen_xsum_train.sh
 ./regen_xsum_valid.sh
+mkdir -p $DATA/processed_data/xsum_regeneration_output
 python convert_regeneration.py --generate-dir $DATA/processed_data/xsum_regeneration_output
 python add_prompt.py $DATA/processed_data/xsum_regeneration/train.bpe.target \
   $DATA/processed_data/xsum_regeneration_output/formatted-train.txt \
@@ -244,6 +245,7 @@ python add_prompt.py $DATA/processed_data/xsum_regeneration/valid.bpe.target \
 cd regen_scripts
 ./regen_cnndm_train.sh
 ./regen_cnndm_valid.sh
+mkdir -p $DATA/processed_data/cnndm_regeneration_output
 python convert_regeneration.py --generate-dir $DATA/processed_data/cnndm_regeneration_output
 python add_prompt.py $DATA/processed_data/cnndm_regeneration/train.bpe.target \
   $DATA/processed_data/cnndm_regeneration_output/formatted-train.txt \
