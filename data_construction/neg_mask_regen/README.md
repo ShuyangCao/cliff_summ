@@ -3,6 +3,18 @@
 We use [Stanza](https://stanfordnlp.github.io/stanza/index.html) `1.2` and [spacy-stanza](https://github.com/explosion/spacy-stanza) `1.0.0`
 for parsing.
 
+```shell
+# create virtual environment (for example, conda)
+conda create -n mask_regen python=3.8
+conda activate mask_regen
+pip install -r requirements.txt
+
+# in case stanza model is not downloaded
+python
+>> import stanza
+>> stanza.download('en')
+```
+
 --------
 
 ### Parse original document and summary
@@ -93,24 +105,24 @@ python detect_relation_ne_summary.py $DATA/processed_data/cnndm_mask_filling/val
 
 ```shell
 # XSum
-python filter_generated.py --generated-docbins $DATA/xsum_mask_filling/train_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/xsum_mask_filling/train_generated.doc \
  --source-docbins $DATA/processed_data/xsum_stanza_docbin/train.source \
  --target-docbins $DATA/processed_data/xsum_stanza_docbin/train.target \
  --other $DATA/processed_data/xsum_mask_filling/train_generated.other \
  $DATA/processed_data/xsum_mask_filling/train_filtered.jsonl
-python filter_generated.py --generated-docbins $DATA/xsum_mask_filling/valid_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/xsum_mask_filling/valid_generated.doc \
  --source-docbins $DATA/processed_data/xsum_stanza_docbin/valid.source \
  --target-docbins $DATA/processed_data/xsum_stanza_docbin/valid.target \
  --other $DATA/processed_data/xsum_mask_filling/valid_generated.other \
  $DATA/processed_data/xsum_mask_filling/valid_filtered.jsonl
 
 # CNN/DM
-python filter_generated.py --generated-docbins $DATA/cnndm_mask_filling/train_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/cnndm_mask_filling/train_generated.doc \
  --source-docbins $DATA/processed_data/cnndm_stanza_docbin/train.source \
  --target-docbins $DATA/processed_data/cnndm_stanza_docbin/train.target \
  --other $DATA/processed_data/cnndm_mask_filling/train_generated.other \
  $DATA/processed_data/cnndm_mask_filling/train_filtered.jsonl
-python filter_generated.py --generated-docbins $DATA/cnndm_mask_filling/valid_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/cnndm_mask_filling/valid_generated.doc \
  --source-docbins $DATA/processed_data/cnndm_stanza_docbin/valid.source \
  --target-docbins $DATA/processed_data/cnndm_stanza_docbin/valid.target \
  --other $DATA/processed_data/cnndm_mask_filling/valid_generated.other \
@@ -279,24 +291,24 @@ python detect_relation_ne_summary.py $DATA/processed_data/cnndm_regeneration_out
 
 ```shell
 # XSum
-python filter_generated.py --generated-docbins $DATA/xsum_regeneration_output/train_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/xsum_regeneration_output/train_generated.doc \
  --source-docbins $DATA/processed_data/xsum_stanza_docbin/train.source \
  --target-docbins $DATA/processed_data/xsum_stanza_docbin/train.target \
  --other $DATA/processed_data/xsum_regeneration_output/train_generated.other \
  $DATA/processed_data/xsum_regeneration_output/train_filtered.jsonl
-python filter_generated.py --generated-docbins $DATA/xsum_regeneration_output/valid_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/xsum_regeneration_output/valid_generated.doc \
  --source-docbins $DATA/processed_data/xsum_stanza_docbin/valid.source \
  --target-docbins $DATA/processed_data/xsum_stanza_docbin/valid.target \
  --other $DATA/processed_data/xsum_regeneration_output/valid_generated.other \
  $DATA/processed_data/xsum_regeneration_output/valid_filtered.jsonl
 
 # CNN/DM
-python filter_generated.py --generated-docbins $DATA/cnndm_regeneration_output/train_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/cnndm_regeneration_output/train_generated.doc \
  --source-docbins $DATA/processed_data/cnndm_stanza_docbin/train.source \
  --target-docbins $DATA/processed_data/cnndm_stanza_docbin/train.target \
  --other $DATA/processed_data/cnndm_regeneration_output/train_generated.other \
  $DATA/processed_data/cnndm_regeneration_output/train_filtered.jsonl
-python filter_generated.py --generated-docbins $DATA/cnndm_regeneration_output/valid_generated.doc \
+python filter_generated.py --generated-docbins $DATA/processed_data/cnndm_regeneration_output/valid_generated.doc \
  --source-docbins $DATA/processed_data/cnndm_stanza_docbin/valid.source \
  --target-docbins $DATA/processed_data/cnndm_stanza_docbin/valid.target \
  --other $DATA/processed_data/cnndm_regeneration_output/valid_generated.other \

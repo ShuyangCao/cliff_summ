@@ -1,5 +1,14 @@
 # Back Translation
 
+```shell
+# create virtual environment (for example, conda)
+conda create -n pos_bt python=3.8
+conda activate pos_bt
+pip install -r requirements.txt
+```
+
+Note that Fairseq has renamed their branch and you might encounter `HTTPError`. Please refer to [this issue](https://github.com/pytorch/fairseq/issues/3955) to resolve it.
+
 -------
 
 We use [nlpaug](https://github.com/makcedward/nlpaug/) `1.1.3`. Please follow their installation instruction.

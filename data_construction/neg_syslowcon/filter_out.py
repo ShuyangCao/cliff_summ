@@ -1,7 +1,6 @@
 import os
 import json
 import argparse
-import numpy as np
 
 
 def main():

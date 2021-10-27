@@ -1,5 +1,12 @@
 # SysLowCon
 
+```shell
+# create virtual environment (for example, conda)
+conda create -n syslowcon python=3.8
+conda activate syslowcon
+pip install -r requirements.txt
+```
+
 -------
 
 ##### Generate

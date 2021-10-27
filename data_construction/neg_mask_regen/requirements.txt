@@ -1,0 +1,11 @@
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+fairseq @ git+https://github.com/pytorch/fairseq.git@0db28cd
+hydra-core==1.0.6
+nltk==3.5
+regex==2020.6.8
+spacy==3.0.3
+spacy_stanza==1.0.0
+-e git+https://github.com/stanfordnlp/stanza.git@f74bef7b2ed171bf9c027ae4dfd3a10272040a46#egg=stanza
+tqdm==4.47.0
+-f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+torch==1.8.2+cu111

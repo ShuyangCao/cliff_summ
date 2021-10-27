@@ -9,12 +9,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('relation_jsonl')
     parser.add_argument('out')
+    parser.add_argument('--bart_dir', required=True)
     parser.add_argument('--topk', type=int, default=5)
     parser.add_argument('--start', type=int)
     parser.add_argument('--end', type=int)
     args = parser.parse_args()
 
-    bart = BARTModel.from_pretrained('/data2/shuyang/pretrain_language_models/bart.large', checkpoint_file='model.pt')
+    bart = BARTModel.from_pretrained(args.bart_dir, checkpoint_file='model.pt')
     bart.eval()
     bart.cuda()
 
