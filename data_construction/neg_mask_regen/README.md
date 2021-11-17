@@ -15,6 +15,8 @@ python
 >> stanza.download('en')
 ```
 
+If you encounter errors like `RuntimeError: Size does not match at dimension 0`, please check [this issue](https://github.com/ShuyangCao/cliff_summ/issues/3).
+
 --------
 
 ### Parse original document and summary

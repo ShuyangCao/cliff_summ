@@ -104,9 +104,9 @@ cd scripts/bart
 ```shell
 # XSum
 cd scripts/pegasus
-python run_generation $DATA/xsum_raw/test.source $TRAINED_MODELS/pegasus_xsum/syslowcon /path/to/save/dir
+python run_generation.py $DATA/xsum_raw/test.source $TRAINED_MODELS/pegasus_xsum/syslowcon /path/to/save/dir
 
 # CNN/DM
 cd scripts/pegasus
-python run_generation $DATA/cnndm_raw/test.source $TRAINED_MODELS/pegasus_cnndm/syslowcon /path/to/save/dir
+python run_generation.py $DATA/cnndm_raw/test.source $TRAINED_MODELS/pegasus_cnndm/syslowcon /path/to/save/dir
 ```
