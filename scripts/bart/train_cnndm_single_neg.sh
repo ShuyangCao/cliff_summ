@@ -7,7 +7,7 @@ NEG_DIR=$1
 SAVE_PATH=$2
 POS_DIR=$DATA/cnndm_synthetic/positive_bt_filter
 DATA_DIR=$DATA/cnndm_binarized
-USER_DIR=../models/bart
+USER_DIR=../../models/bart
 
 
 fairseq-train $DATA_DIR --pos-data $POS_DIR --neg-data $NEG_DIR --max-neg-samples 4 \
@@ -21,7 +21,7 @@ fairseq-train $DATA_DIR --pos-data $POS_DIR --neg-data $NEG_DIR --max-neg-sample
     --share-decoder-input-output-embed \
     --reset-optimizer --reset-dataloader --reset-meters \
     --required-batch-size-multiple 1 \
-    --arch bart_large \
+    --arch contrastive_bart_large \
     --criterion contrastive_loss \
     --label-smoothing 0.1 \
     --fixed-validation-seed 7 \
