@@ -4,6 +4,17 @@ Code for EMNLP 2021 paper "CLIFF: Contrastive Learning for Improving Faithfulnes
 
 ---------
 
+## News
+
+- Codes for using unlikelihood training and in-batch negatives are added. Please check [train_xsum_batch_neg.sh](scripts/bart/train_xsum_batch_neg.sh) and [train_xsum_single_neg_ull.sh](scripts/bart/train_xsum_single_neg_ull.sh).
+Related Fairseq codes are here: [unlikelihood_translation.py](models/bart/unlikelihood_translation.py) and [contrastive_translation_batch_neg.py](models/bart/contrastive_translation_batch_neg.py).
+- A cleaner implementation is available. The new implementation uses less system RAM and is compatible with the current version of Fairseq.
+Check [here](new_fairseq_implementation).
+- We find that the newer version of QuestEval produces much lower scores than the version (commit `0e94a74`) we used in our paper.
+Please do not directly take the QuestEval results from the paper if you are using the newer version.
+
+---------
+
 ## Data Construction
 
 For data construction, please refer to [data_construction](data_construction).

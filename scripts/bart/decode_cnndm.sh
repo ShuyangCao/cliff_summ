@@ -16,4 +16,4 @@ fairseq-generate $DATA_PATH \
     --batch-size 32 --fp16 \
     --truncate-source --user-dir $USER_DIR;
 
-python convert_bart --generate-dir $RESULT_PATH
+python convert_bart.py --generate-dir $RESULT_PATH
